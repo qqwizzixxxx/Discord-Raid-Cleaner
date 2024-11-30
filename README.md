@@ -14,6 +14,8 @@ And Dont Let Intruders To Abuse The Program Bc It Got Userid Whitelist
 # How To Install?
 
 As First Install An Folder Cleaner Or Whole Repository Idc
+but best way is to use an https://github.com/qqwizzixxxx/Discord-Raid-Cleaner/releases/tag/v1.0.0
+just download.zip and unpack the folder
 
 Second Step Is To Setup an discord bot
 
@@ -100,6 +102,8 @@ To View Commands Type !help In your Discord Server chat
 # Как установить?
 
 Сначала установите папку Cleaner или весь репозиторий, Пофиг как
+но всё равно лучше скачать зипку с релиза https://github.com/qqwizzixxxx/Discord-Raid-Cleaner/releases/tag/v1.0.0
+и просто распоковать
 
 Второй шаг — настроить бота Discord
 
