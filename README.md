@@ -8,7 +8,9 @@ And Dont Let Intruders To Abuse The Program Bc It Got Userid Whitelist
 
 # How To Install?
 
-First Step Is To Setup an discord bot
+As First Install An Folder Cleaner Or Whole Repository Idc
+
+Second Step Is To Setup an discord bot
 
 go to https://discord.com/developers/applications
 create an app and then bot
