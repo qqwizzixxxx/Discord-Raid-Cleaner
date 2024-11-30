@@ -1,4 +1,4 @@
-# /en
+# english
 
 
 
@@ -87,7 +87,7 @@ To View Commands Type !help In your Discord Server chat
 
 
 
-# /ru
+# russian
 
 # Discord-Raid-Cleaner
 
