@@ -1,4 +1,8 @@
-/en
+# /en
+
+
+
+
 # Discord-Raid-Cleaner
 
 Hello My Name Is qqwizzixxxx And I Created An Helper To Clean Discord Server From Raid
