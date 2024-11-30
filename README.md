@@ -71,7 +71,19 @@ You Can Check The File USing VirusTotal I Just Need To Skids dont stole my code
 To View Commands Type !help In your Discord Server chat
 
 
-/ru
+
+
+
+
+
+
+
+
+
+
+
+
+# /ru
 
 # Discord-Raid-Cleaner
 
