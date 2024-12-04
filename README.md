@@ -1,164 +1,139 @@
-# english
-
-
-
-
 # Discord-Raid-Cleaner
 
-Hello My Name Is qqwizzixxxx And I Created An Helper To Clean Discord Server From Raid
-When You Get Your Server Raided The Intruder's bot will spam, create a whole bunch of roles, channels
+## English
 
-This Simple Program Will Help You To Clean Your Server
-And Dont Let Intruders To Abuse The Program Bc It Got Userid Whitelist
+Hello! My name is **qqwizzixxxx**, and I created a helper to clean Discord servers from raids. When your server gets raided, the intruder's bot will spam and create a whole bunch of roles and channels.
 
-# How To Install?
+This simple program will help you clean your server and prevent intruders from abusing it, as it has a user ID whitelist.
 
-As First Install An Folder Cleaner Or Whole Repository Idc
-but best way is to use an https://github.com/qqwizzixxxx/Discord-Raid-Cleaner/releases/tag/v3.0.0
-just download.zip and unpack the folder
+---
 
-Second Step Is To Setup an discord bot
+## How to Install?
 
-go to https://discord.com/developers/applications
-create an app and then bot
+1. **Download the Cleaner**
+   - You can install a folder cleaner or the whole repository; it doesn't matter.
+   - The best way is to download the release from [here](https://github.com/qqwizzixxxx/Discord-Raid-Cleaner/releases/tag/v3.0.0). Just download the `.zip` file and unpack the folder.
 
-APPLICATION ID LOOKS LIKE:
+2. **Set Up a Discord Bot**
+   - Go to [Discord Developer Portal](https://discord.com/developers/applications).
+   - Create an application and then a bot.
 
-<h1 align="center">
-    <img src="https://raw.githubusercontent.com/qqwizzixxxx/Discord-Raid-Cleaner/refs/heads/main/APPLICATION%20id.png" />
-</h1>
+   **APPLICATION ID LOOKS LIKE:**
 
-Add It Using This Link:
-```
-https://discord.com/oauth2/authorize?client_id=APPLICATION ID HERE&permissions=8&integration_type=0&scope=bot
-```
-then setup the program
-get you bot token.
+   <h1 align="center">
+       <img src="https://raw.githubusercontent.com/qqwizzixxxx/Discord-Raid-Cleaner/refs/heads/main/APPLICATION%20id.png" />
+   </h1>
 
-If You Dont Know How Its Simple, if you know ignore this
+   Add it using this link:
+   ```
+   https://discord.com/oauth2/authorize?client_id=APPLICATION_ID_HERE&permissions=8&integration_type=0&scope=bot
+   ```
 
-> first go to the
-> ```
-> https://discord.com/developers/applications/APPLICATION ID HERE/bot
-> ```
+3. **Get Your Bot Token**
+- If you don't know how, it's simple. If you do, feel free to skip this section.
+- First, go to:
+  ```
+  https://discord.com/developers/applications/APPLICATION_ID_HERE/bot
+  ```
+  - Press **Reset Token**. You did it! Copy the token.
 
-> And Press Reset Token. You Did It!
-> Copy the  token
+4. **Edit the Configuration**
+- Go to `Assets/config.json` and edit:
+  ```json
+  TOKEN: "YOUR_TOKEN_HERE"
+  ```
+- Also, do this with the user ID.
 
-and got to the Assets/config.json
+---
 
-and edit TOKEN : "YOU TOKEN HERE"
+## How to Get User ID?
 
-And also Do It whit user Id
-
-> How To Get User Id?
-
-first enable the dev mod in discord setings
-
-then right click on your name
-
-you will get this menu:
+1. Enable **Developer Mode** in Discord settings.
+2. Right-click on your name to get this menu:
 
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/qqwizzixxxx/Discord-Raid-Cleaner/refs/heads/main/image.png" />
 </h1>
 
-then just press Copy User ID
+3. Press **Copy User ID**. Done!
 
-done
+---
 
+## Starting the Bot
 
-# Starting A Bot
-save an config.json
-open a .exe file (dw Its Not An Stealler Or Rat)
+1. Save the `config.json`.
+2. Open the `.exe` file (don't worry, it's not a stealer or RAT).
 
-You Can Check The File USing VirusTotal I Just Need To Skids dont stole my code
+You can check the file using [VirusTotal](https://www.virustotal.com). I just need to ensure that skids don't steal my code.
 
-To View Commands Type !Commands In your Discord Server chat
+To view commands, type `!Commands` in your Discord server chat.
 
+---
 
+## Русский
 
+Привет! Меня зовут **qqwizzixxxx**, и я создал помощника для очистки сервера Discord от рейдов. Когда ваш сервер подвергнется рейду, бот злоумышленника будет спамить и создавать целую кучу ролей и каналов.
 
+Эта простая программа поможет вам очистить ваш сервер и не позволит злоумышленникам злоупотреблять программой, потому что у нее есть белый список ID пользователей.
 
+---
 
+## Как установить?
 
+1. **Скачайте Cleaner**
+- Установите папку Cleaner или весь репозиторий, как вам удобно.
+- Лучше всего скачать зипку с релиза [здесь](https://github.com/qqwizzixxxx/Discord-Raid-Cleaner/releases/tag/v3.0.0) и просто распаковать.
 
+2. **Настройте бота Discord**
+- Зайдите на [Портал разработчиков Discord](https://discord.com/developers/applications).
+- Создайте приложение, а затем бота.
 
-
-
-
-
-
-# russian
-
-# Discord-Raid-Cleaner
-
-Привет, меня зовут qqwizzixxxx, и я создал помощника для очистки сервера Discord от рейда
-Когда ваш сервер подвергнется рейду, бот злоумышленника будет спамить, создавать целую кучу ролей, каналов
-
-Эта простая программа поможет вам очистить ваш сервер
-И не позволит злоумышленникам злоупотреблять программой, потому что у нее есть белый список id пользователей
-
-# Как установить?
-
-Сначала установите папку Cleaner или весь репозиторий, Пофиг как
-но всё равно лучше скачать зипку с релиза https://github.com/qqwizzixxxx/Discord-Raid-Cleaner/releases/tag/v3.0.0
-и просто распоковать
-
-Второй шаг — настроить бота Discord
-
-зайдите на https://discord.com/developers/applications
-создайте приложение, а затем бота
-
-ИДЕНТИФИКАТОР ПРИЛОЖЕНИЯ ВЫГЛЯДИТ ТАК:
+**ИДЕНТИФИКАТОР ПРИЛОЖЕНИЯ ВЫГЛЯДИТ ТАК:**
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/qqwizzixxxx/Discord-Raid-Cleaner/refs/heads/main/APPLICATION%20id.png" />
+    <img src="https://raw.githubusercontent.com/qqwizzixxxx/Discord-Raid-Cleaner/refs/heads/main/APPLICATION%20id.png" />
 </h1>
 
 Добавьте его по этой ссылке:
 ```
-https://discord.com/oauth2/authorize?client_id=ИДЕНТИФИКАТОР ПРИЛОЖЕНИЯ ЗДЕСЬ&permissions=8&integration_type=0&scope=bot
+https://discord.com/oauth2/authorize?client_id=ИДЕНТИФИКАТОР_ПРИЛОЖЕНИЯ_ЗДЕСЬ&permissions=8&integration_type=0&scope=bot
 ```
-затем настройте программу
-получите свой токен бота.
 
-Если вы не знаете как то это для вас, если знаете проигнорируйте это
+3. **Получите токен бота**
+- Если вы не знаете как, это просто. Если знаете, можете пропустить этот раздел.
+- Сначала перейдите по ссылке:
+  ```
+  https://discord.com/developers/applications/ИДЕНТИФИКАТОР_ПРИЛОЖЕНИЯ_ЗДЕСЬ/bot
+  ```
+  - Нажмите **Reset Token**. Вы сделали это! Скопируйте токен.
 
->сначала перейдите по этой ссылке
->```
->https://discord.com/developers/applications/ИДЕНТИФИКАТОР ПРИЛОЖЕНИЯ ЗДЕСЬ/bot
->```
+4. **Отредактируйте конфигурацию**
+- Перейдите в `Assets/config.json` и отредактируйте:
+  ```json
+  TOKEN: "ВАШ_ТОКЕН_ЗДЕСЬ"
+  ```
+- Также сделайте это с идентификатором пользователя.
 
-И нажмите Reset Token. Вы сделали это!
-Скопируйте токен
+---
 
-и перейдите в Assets/config.json
+## Как получить идентификатор пользователя?
 
-и отредактируйте ТОКЕН: "Сюда токен бота"
-
-И также сделайте это с идентификатором пользователя
-
->Как получить идентификатор пользователя?
-
-сначала включите dev mod в настройках Discord
-
-затем щелкните правой кнопкой мыши по своему имени
-
-вы получите это меню:
+1. Включите **Режим разработчика** в настройках Discord.
+2. Щелкните правой кнопкой мыши по своему имени, чтобы получить это меню:
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/qqwizzixxxx/Discord-Raid-Cleaner/refs/heads/main/image.png" />
+    <img src="https://raw.githubusercontent.com/qqwizzixxxx/Discord-Raid-Cleaner/refs/heads/main/image.png" />
 </h1>
 
-затем просто нажмите Copy User ID
+3. Нажмите **Copy User ID**. Готово!
 
-готово
+---
 
-# Запуск бота
-сохраните config.json
-откройте файл .exe (не беспокойтесь это не стиллер или ратка)
+## Запуск бота
 
-Вы можете проверить файл с помощью VirusTotal Мне просто нужно, чтобы скиды не украл мой код
+1. Сохраните `config.json`.
+2. Откройте файл `.exe` (не беспокойтесь, это не стиллер или RAT).
 
-Чтобы просмотреть команды, введите !Commands в чате вашего сервера Discord
+Вы можете проверить файл с помощью [VirusTotal](https://www.virustotal.com). Мне просто нужно, чтобы скиды не украли мой код.
+
+Чтобы просмотреть команды, введите `!Commands` в чате вашего сервера Discord.
