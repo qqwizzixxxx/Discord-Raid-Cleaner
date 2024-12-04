@@ -37,13 +37,13 @@ get you bot token.
 
 If You Dont Know How Its Simple, if you know ignore this
 
-first go to the
-```
-https://discord.com/developers/applications/APPLICATION ID HERE/bot
-```
+> first go to the
+> ```
+> https://discord.com/developers/applications/APPLICATION ID HERE/bot
+> ```
 
-And Press Reset Token. You Did It!
-Copy the  token
+> And Press Reset Token. You Did It!
+> Copy the  token
 
 and got to the Assets/config.json
 
@@ -51,7 +51,7 @@ and edit TOKEN : "YOU TOKEN HERE"
 
 And also Do It whit user Id
 
-# How To Get User Id?
+> How To Get User Id?
 
 first enable the dev mod in discord setings
 
