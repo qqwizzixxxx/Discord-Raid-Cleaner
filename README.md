@@ -12,7 +12,7 @@ This simple program will help you clean your server and prevent intruders from a
 
 1. **Download the Cleaner**
    - You can install a folder cleaner or the whole repository; it doesn't matter.
-   - The best way is to download the release from [here](https://github.com/qqwizzixxxx/Discord-Raid-Cleaner/releases/tag/v3.1.0). Just download the `.zip` file and unpack the folder.
+   - The best way is to download the release from [here](https://github.com/qqwizzixxxx/Discord-Raid-Cleaner/releases/tag/3.1.0). Just download the `.zip` file and unpack the folder.
 
 2. **Set Up a Discord Bot**
    - Go to [Discord Developer Portal](https://discord.com/developers/applications).
@@ -82,7 +82,7 @@ To view commands, type `!Commands` in your Discord server chat.
 
 1. **Скачайте Cleaner**
 - Установите папку Cleaner или весь репозиторий, как вам удобно.
-- Лучше всего скачать зипку с релиза [здесь](https://github.com/qqwizzixxxx/Discord-Raid-Cleaner/releases/tag/v3.1.0) и просто распаковать.
+- Лучше всего скачать зипку с релиза [здесь](https://github.com/qqwizzixxxx/Discord-Raid-Cleaner/releases/tag/3.1.0) и просто распаковать.
 
 2. **Настройте бота Discord**
 - Зайдите на [Портал разработчиков Discord](https://discord.com/developers/applications).
